@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Data driven testing for current weather</description>
+   <name>DDT1 - Current weather</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afe52baf-8997-4020-8eb1-af246e729dd5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a8436f28-c621-44ed-b1d0-d1b41b7360c4</id>
+      <masked>false</masked>
+      <name>lat</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>41a49153-7366-449f-9593-0e0ad378b0c2</id>
+      <masked>false</masked>
+      <name>lon</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case failed due to limitation subscription (free user not allowed to access The 5 day/3 hourly forecast)
+
+Issue discussed in: https://www.weatherbit.io/support/post/lost-acces-to-3-hourly-forecast</description>
+   <name>TC2 - 3 Hourly forecast weather</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e0b1a2d-412c-4fd2-8248-aa2d0322b03e</testCaseGuid>
+</TestCaseEntity>

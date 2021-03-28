@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Data driven testing for hourly forecast</description>
+   <name>DDT2 - Hourly forecast</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdf62bcb-7530-4306-a371-ca1adc90722e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46ebcb63-6851-4077-bc8d-3593f99baa0e</id>
+      <masked>false</masked>
+      <name>postal_code</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Send request to GET /current?lat={lat}&amp;lon={lon} 
+2. Verify request response code</description>
+   <name>TC1 - Current weather</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05b9c776-4057-4a72-8ab4-77f1b5a614fb</testCaseGuid>
+</TestCaseEntity>
