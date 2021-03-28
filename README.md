@@ -15,3 +15,4 @@ note: due to limitation subscription, I can't access -> GET /forecast/3hourly?po
 
 * Run Automation Test. You can run it in each test suites (normal testing and data driven testing)
 * Data files: An excel file contain of Latitude, longitude and postal code for several cities
+* API key already attach to the url if you have problem or API key not active feel free to contact me
