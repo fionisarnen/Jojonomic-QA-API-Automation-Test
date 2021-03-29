@@ -15,7 +15,7 @@
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>http://api.weatherbit.io/v1.0/forecast/3hourly?key=f42b6daa96b64f9d94648ac643d2ad74&amp;postal_code=6710</restUrl>
+   <restUrl>https://api.weatherbit.io/v1.0/forecast/3hourly?key=f42b6daa96b64f9d94648ac643d2ad74&amp;postal_code=6710</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
